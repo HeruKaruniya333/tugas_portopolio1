@@ -1,0 +1,43 @@
+body{
+  background:linear-gradient(#9915d6 0%, #e44a4c 40%, #ab85d6 100% );
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 200px;
+}
+.profileimage{
+    width: 150px;
+    height: 150px;
+}
+.profile h2{
+    color: white;
+}
+.profile h4{
+    color: white;
+    transform: translateY(-10px);
+}
+.biodata{
+    background:linear-gradient(#fffdfd 0%, #ffffffef 40%, #ddd1ec00 100% );
+    padding-bottom: 200PX;
+    padding-top: 55px;
+}
+.row{
+    padding: 0px  20%;
+}
+.Achievement{
+    padding-top: 55px;
+}
+.footer{
+    background-color:#ffff;
+    padding-bottom: 20px;
+}
+.contact a{
+    color: black;
+    font-size: 30px;
+}
+.watermark{
+    padding-top: 30px;
+}
